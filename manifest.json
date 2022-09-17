@@ -1,0 +1,40 @@
+{
+    "name": "CdCompleto",
+  
+    "short_name": "CdCompleto",
+  
+    "description": "Collect",
+   
+  
+    "start_url": "/",
+    "display": "standalone",
+  
+    "orientation": "portrait",
+  
+    "background_color": "#5d1ae6",
+   
+   "theme_color": "#fff",
+   
+   "app": {
+      "launch": {
+        "web_url": "https://cdcompleto.ml"
+      }
+    },
+  
+    "icons": [
+      {
+        "src": "/images/logo.png",
+        "sizes": "192x192",
+   
+       "type": "images/png"
+      },
+      {
+        "src": "/images/logo.png",
+      
+    "sizes": "512x512",
+        "type": "/images/logo.png"
+   
+     }
+    ]
+  }
+  
